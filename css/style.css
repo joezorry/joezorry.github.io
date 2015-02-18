@@ -166,6 +166,10 @@ div#links {
 	display: none;
 }
 
+div#apps_portfolio {
+	display: none;
+}
+
 /* CONTENT ABOUT */
 #about_me_pic {
 	float: right;
