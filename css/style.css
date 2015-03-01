@@ -175,6 +175,27 @@ div#apps_portfolio {
     display: none;
 }
 
+div#portfolio_single {
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
+div#portfolio_single p {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+div#portfolio_single h4 {
+    margin-top: 16px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-family: 'HelveticaNeue';
+}
+
+div#portfolio_single li {
+    font-size: 14px;
+}
+
 /* CONTENT ABOUT */
 #about_me_pic {
     float: right;
