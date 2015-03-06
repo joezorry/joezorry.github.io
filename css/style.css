@@ -10,10 +10,6 @@
     src: local('HelveticaNeue-CondensedBold'), local('HelveticaNeue-CondensedBold'), url('HelveticaNeue-CondensedBold.woff') format('woff'), url('HelveticaNeue-CondensedBold.ttf') format('truetype');
 }
 
-html {
-    overflow-y: hidden;
-}
-
 body {
     margin: 24px 8px 8px 8px;   
     font-family: 'HelveticaNeueRegular';
